@@ -1,0 +1,7 @@
+INICIO
+ENTERO x
+ENTERO y
+x = 5
+y = x + 3
+ESCRIBIR y
+FIN
